@@ -1,11 +1,17 @@
+
+import { Iname } from '../../Interfaces';
 import './styles.css'
 
-function BringName() {
+interface NameProps {
+    name: Iname,
+}
+
+function BringName({ name }: NameProps ) {
 	
 	return (
 		<div className="card">
 			<div>
-                <p>João</p>
+                <p>{name.name}</p>
             </div>
 
             <div className="line2" >
