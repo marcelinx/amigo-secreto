@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota&display=swap');
+
 .App {
   padding: 20px 0;
   width: 85%;
@@ -41,6 +43,7 @@ input {
 
 .btn-header {
   background-color: #e43c9c;
+  font-family: 'Bellota', cursive;
   font-size: 16px;
   font-weight: 700;
 
