@@ -9,12 +9,14 @@ function App() {
 
 			<header>
 
-				<h2>Amigo Secreto</h2>
+				<h2>Amigo Secreto
+					<img src=""/>
+				</h2>
 
 				<input
 					type="text" autoComplete="off" 
-					placeholder="Escrever task..." 
-					name="task"
+					placeholder="Escrever nome..." 
+					name="name"
 					className="input"
 				/>
 

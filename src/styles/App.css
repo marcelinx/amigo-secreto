@@ -1,6 +1,7 @@
 .App {
   padding: 20px 0;
   width: 85%;
+  
 
   display: flex;
   justify-content: center;
@@ -10,7 +11,7 @@
 
 header h2 {
   font-weight: 600;
-  color: #84878A;
+  color: #fff;
   font-size: 30px;
 
   display: flex;
@@ -39,7 +40,7 @@ input {
 }
 
 .btn-header {
-  background-color: #80CB27;
+  background-color: #e43c9c;
   font-size: 16px;
   font-weight: 700;
 
