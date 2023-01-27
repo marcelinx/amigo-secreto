@@ -4,9 +4,10 @@ import './styles.css'
 
 interface NameProps {
     name: Iname,
+    deleteName(DeleteNameById: number): void,
 }
 
-function BringName({ name }: NameProps ) {
+function BringName({ name, deleteName }: NameProps ) {
 	
 	return (
 		<div className="card">
@@ -15,7 +16,7 @@ function BringName({ name }: NameProps ) {
             </div>
 
             <div className="line2" >
-            <span className="btn-card">X</span>
+            <span className="btn-card" onClick={() => deleteName(name.id)}>X</span>
             </div>
 		</div>
 	);
