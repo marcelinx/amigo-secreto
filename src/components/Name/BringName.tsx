@@ -16,7 +16,7 @@ function BringName({ name, deleteName }: NameProps ) {
             </div>
 
             <div className="line2" >
-            <span className="btn-card" onClick={() => deleteName(name.id)}>X</span>
+            <span className="btn-card" onClick={() => deleteName(name.id)}>Remover nome</span>
             </div>
 		</div>
 	);
