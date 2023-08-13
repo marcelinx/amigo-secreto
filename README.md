@@ -1,6 +1,6 @@
 # Aplicação de Amigo Secreto
 
-Esta é uma aplicação de Amigo Secreto construída utilizando o framework Angular, que permite organizar e gerenciar o processo de troca de presentes entre um grupo de pessoas. A aplicação foi desenvolvida para ser executada localmente em `localhost:3000`.
+Esta é uma aplicação de Amigo Secreto construída utilizando o framework React com Typescript, que permite organizar e gerenciar o processo de troca de presentes entre um grupo de pessoas. A aplicação foi desenvolvida para ser executada localmente em `localhost:3000`.
 
 ## Funcionalidades
 
