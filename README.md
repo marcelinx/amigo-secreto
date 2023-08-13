@@ -6,7 +6,7 @@ Esta é uma aplicação de Amigo Secreto construída utilizando o framework Reac
 
 A aplicação de Amigo Secreto possui as seguintes funcionalidades:
 
-1. Cadastro de participantes: Os usuários podem se cadastrar na aplicação fornecendo seu nome, e-mail e senha.
+1. Cadastro de participantes: Os usuários podem se cadastrar na aplicação fornecendo seu nome.
 2. Sorteio dos amigos secretos: A aplicação realiza o sorteio dos amigos secretos de forma automática e aleatória, garantindo que ninguém saiba quem tirou quem.
 
 
